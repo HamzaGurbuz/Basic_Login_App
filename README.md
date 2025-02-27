@@ -15,7 +15,8 @@ Login Success/Failure Messages: Displays appropriate messages based on the login
 Clone the Repository:
 
   ```bash
-  git clone https://github.com/HamzaGurbuz/Basic_Login_App
+git clone https://github.com/HamzaGurbuz/Basic_Login_App
+  
 
 Open Android Studio:
 
