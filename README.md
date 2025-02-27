@@ -46,8 +46,8 @@ To change the default username and password:
 Edit the following lines in `MainActivity.java`:
 
 ```java
-String correctUsername = "admin";
-String correctPassword = "password";
+String correctUsername = "Hamza";
+String correctPassword = "6436";
 ```
 
 ## Contributing
